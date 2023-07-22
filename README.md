@@ -6,7 +6,7 @@ Projet Cloud AWS MOUNSAMY-TREHIN
 - [Screenshots of the project on QuickSight](/quicksight)  
 - [Screenshots of the answers of the IAM quizz](/iam%20quizz)  
 - [Screenshots of the answers of the network quizz](/network%20quizz)
-- [Policies evaluation]((#policies-evaluation))
+- [Policies evaluation]((# policies_evaluation))
 
 ### Schema of our realisation :
 ![Schema](diagrammeprojet.png)
@@ -141,9 +141,9 @@ The fourth policy allows for the creation (`iam:CreateUser` action) and deletion
 The answers to the questions are as follows:
 
 #### Answer:
-    - This policy grants access to AWS IAM (Identity and Access Management) service.
-    - No, it doesn't allow you to create an IAM user, group, policy, or role. It only allows you to get and list IAM resources.
-    - The **iam:Get** action could allow actions such as `iam:GetUser`, `iam:GetGroup`, `iam:GetRole`, `iam:GetPolicy`, etc. These actions enable you to retrieve details about the corresponding IAM resources.
+- This policy grants access to AWS IAM (Identity and Access Management) service.
+- No, it doesn't allow you to create an IAM user, group, policy, or role. It only allows you to get and list IAM resources.
+- The **iam:Get** action could allow actions such as `iam:GetUser`, `iam:GetGroup`, `iam:GetRole`, `iam:GetPolicy`, etc. These actions enable you to retrieve details about the corresponding IAM resources.
 
 ```json
 {
