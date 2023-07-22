@@ -6,7 +6,7 @@ Projet Cloud AWS MOUNSAMY-TREHIN
 - [Screenshots of the project on QuickSight](/quicksight)  
 - [Screenshots of the answers of the IAM quizz](/iam%20quizz)  
 - [Screenshots of the answers of the network quizz](/network%20quizz)
-- [Policies evaluation]([#policies_evaluation])
+- [Policies evaluation](https://github.com/Gaetan-Mounsamy/CloudProjet/blob/main/README.md#policies-evaluation)
 
 ### Schema of our realisation :
 ![Schema](diagrammeprojet.png)
